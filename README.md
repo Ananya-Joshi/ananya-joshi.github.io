@@ -9,9 +9,14 @@ My recent projects are practical statistical applications for disease mitigation
 I am supported by the NSF GRFP. 
 
 ### Highlighted Projects
-1. **Cases2Beds** Advised by Chris Scott and Roni Rosenfeld 
+1. **Cases2Beds**. Advised by Chris Scott and Roni Rosenfeld 
 
-2. **Creating an Automated Ideological Transformer Using Moral Reframing** Advised by Christiane Fellbaum, Michael Guerzhoy
+_DELPHI Group, CMU_
+
+2. **Creating an Automated Ideological Transformer Using Moral Reframing**. Advised by Christiane Fellbaum, Michael Guerzhoy
+
+_Princeton Undergraduate Senior Thesis in Computer Science (A+)_
 
 3. **BuzzNet** - Data Driven Approaches to Preventing Vector-Borne Diseases. Advised by Clayton Miller
-_Completed as part of Fulbright Urban Planning & Sustainable Design Award (Singapore)_
+
+_Fulbright Urban Planning & Sustainable Design Award (Singapore)_
