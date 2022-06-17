@@ -15,8 +15,8 @@ _DELPHI Group, CMU_
 
 2. **Creating an Automated Ideological Transformer Using Moral Reframing**. Advised by Christiane Fellbaum, Michael Guerzhoy
 
-_Princeton Undergraduate Senior Thesis in Computer Science (A+)_
+_Undergraduate Senior Thesis in Computer Science (A+), Princeton_
 
 3. **BuzzNet** - Data Driven Approaches to Preventing Vector-Borne Diseases. Advised by Clayton Miller
 
-_Fulbright Urban Planning & Sustainable Design Award (Singapore)_
+_Fulbright Urban Planning & Sustainable Design Award, Singapore_
