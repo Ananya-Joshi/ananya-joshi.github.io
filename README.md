@@ -1,1 +1,2 @@
-# ananya-joshi.github.io
+### Ananya Joshi
+### aa<last_name> at andrew dot cmu dot edu
