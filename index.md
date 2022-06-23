@@ -1,4 +1,4 @@
-### Ananya Joshi
+## Ananya Joshi
 #### ✉️ : aa(last_name) at andrew dot cmu dot edu
 
 I am a third-year Ph.D. student at [CMU](https://www.cmu.edu) in the [Computer Science Department](https://csd.cmu.edu/) advised by [Roni Rosenfeld](http://www.cs.cmu.edu/~roni/). 
@@ -20,3 +20,4 @@ _Undergraduate Senior Thesis in Computer Science (A+), Princeton_
 - **BuzzNet** - Data Driven Approaches to Preventing Vector-Borne Diseases. Advised by Clayton Miller
 
 _Fulbright Urban Planning & Sustainable Design Award, Singapore_
+
