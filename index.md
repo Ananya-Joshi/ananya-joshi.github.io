@@ -9,7 +9,8 @@ My recent projects are practical statistical applications for disease mitigation
 I am supported by the NSF GRFP. 
 
 ### Highlighted Projects
--  **![Cases2Beds](https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/)**. Advised by Chris Scott and Roni Rosenfeld   
+-  **![Cases2Beds](https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/)**. Advised by Chris Scott and Roni Rosenfeld
+
 _DELPHI Group, CMU_
 
 - **Creating an Automated Ideological Transformer Using Moral Reframing**. Advised by Christiane Fellbaum, Michael Guerzhoy
