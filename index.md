@@ -23,5 +23,5 @@ _Fulbright Urban Planning & Sustainable Design Award, Singapore_
 
 ### Educational History
 *Carnegie Mellon University*, Ph.D. in the Computer Science Department (2020-now)   
-*Princeton University*, BSE in CS with certificates in Entrepreneurship, Statistics & Machine Learning, and Robotics & Intelligent Systems (2015-2019)   
+*Princeton University*, BSE in CS (2015-2019)   
 *ETH Zurich* (Study Abroad, 2018)  
