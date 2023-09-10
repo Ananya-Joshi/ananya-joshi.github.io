@@ -1,0 +1,22 @@
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: Arial, system-ui;
+}
+
+main > div {
+  border: darkgrey 1px solid;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  color: gray;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
