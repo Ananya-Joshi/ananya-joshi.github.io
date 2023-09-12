@@ -27,7 +27,7 @@ Certificates in Statistics & Machine Learning, Robotics & Intelligent Systems, a
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 🌟 TA for 15-996 & Machine Learning in Practice (Spring 2023)  
 
-*Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting indoor climbing and martial arts here!
+*Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 
 Website made with Jekyll and Bootstrap.
 
