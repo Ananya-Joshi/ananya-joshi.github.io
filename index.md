@@ -26,11 +26,14 @@ layout: default
 🌟 Mentored undergrad student for changepoint detection (Sep 2022-Aug 2023) 
 🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).   
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
-🌟 Co-Instructor for 15-996 (Spring 2022/23) & TA for Machine Learning in Practice (Spring 2023)  
+🌟 Co-Instructor for 15-996 (Spring 2022/23) [CMU Article in the Link Magazine](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+) 
+
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!
+
+
 
 
 
