@@ -13,13 +13,6 @@ layout: default
 🛠️ Research at MIT Lincoln Laboratory on Probabiltiy of Cloud Free Line of Sight    
 📄 Urban Data Mining in Switzerland, ETH Zurich    
 
-### Educational History
-🎓 *Carnegie Mellon University*, Ph.D. in the Computer Science Department (2020-now)   
-🎓 *Carnegie Mellon University*, M.S in Computer Science (2023)  
-🎓 *Princeton University*, BSE in Computer Science  
-       Certificates in Statistics & Machine Learning, Robotics & Intelligent Systems, and Entrpreneurship (2015-2019)   
-🎓 *ETH Zurich* (Study Abroad, 2018)  
-
 ### Additional Highlights
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
