@@ -13,6 +13,12 @@ layout: default
 🛠️ Research at MIT Lincoln Laboratory on Probabiltiy of Cloud Free Line of Sight    
 📄 Urban Data Mining in Switzerland, ETH Zurich    
 
+### Prepared Lectures 
+📕 [Time Series Data: Clarifying Practical Approaches](https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing) <br>
+This was a 80-minute active-learning lecture for students in Machine Learning in Practice. In a post-class anonymous survey (85% completion rate), 83% found the material to be at the right level (1 student found it too easy and 1 found it too difficult) and, across all tasks, identified in the learning objectives, students reported being able to increase their skills (e.g. from being unfamiliar with the task, being able to define the task, being able to classify tasks that belong to the component, knowing at least 2 ways to approach the task, and being familiar with some technical insights/nuances of the tasks).
+
+Please contact me if you would like to use this activity in your teaching. 
+
 ### Additional Highlights
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
