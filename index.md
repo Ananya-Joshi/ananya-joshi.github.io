@@ -16,8 +16,8 @@ layout: default
 ### Additional Highlights
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
-🌟 Mentored undergrad student for changepoint detection (Sep 2022-Aug 2023) 
-🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).   
+🌟 Mentored undergrad student for changepoint detection (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>.    
+🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).    
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 🌟 Co-Instructor for 15-996 (Spring 2022/23) [CMU Article in the Link Magazine](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+) 
