@@ -30,7 +30,8 @@ Please contact me if you would like to use this activity in your teaching.
 🌟 Completed the Eberly Center's [Future Faculty Program](https://www.cmu.edu/teaching/graduatestudentsupport/futurefacultyprogram.html)  
 🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
-🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students.      
+🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students.    
+🌟 Presented at CMU AI Seminar (4/9/23)!
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!
