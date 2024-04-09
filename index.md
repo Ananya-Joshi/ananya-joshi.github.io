@@ -29,7 +29,9 @@ Please contact me if you would like to use this activity in your teaching.
 🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)
 🌟 Completed the Eberly Center's [Future Faculty Program](https://www.cmu.edu/teaching/graduatestudentsupport/futurefacultyprogram.html)
 🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor
-🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+) 
+🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
+🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students. 
+🌟 Organizational team for the inagural DELTA Workshop at KDD 2024 on [drift phenomena](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html). 
 
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
