@@ -27,7 +27,7 @@ Please contact me if you would like to use this activity in your teaching.
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 🌟 Co-Instructor for 15-996 (Spring 2022/23) [Article](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
 🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)   
-🌟 Completed the Eberly Center's [Future Faculty Program](https://www.cmu.edu/teaching/graduatestudentsupport/futurefacultyprogram.html)  
+🌟 Completed the Eberly Center's [Future Faculty Program](https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing)  
 🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students.    
