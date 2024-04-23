@@ -31,7 +31,8 @@ Please contact me if you would like to use this activity in your teaching.
 🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students.    
-🌟 Presented at CMU AI Seminar (4/9/23)!
+🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2023).  
+🌟 Presented a poster at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2023).  
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!
