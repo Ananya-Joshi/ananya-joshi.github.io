@@ -14,7 +14,8 @@ layout: default
 📄 Urban Data Mining in Switzerland, ETH Zurich    
 
 ### Prepared Lectures 
-[Time Series Data: Clarifying Practical Approaches](https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing) <br>
+
+📕 [Time Series Data: Clarifying Practical Approaches](https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing) <br>
 This was a 80-minute active-learning lecture for students in Machine Learning in Practice. In a post-class anonymous survey (85% completion rate), 83% found the material to be at the right level (1 student found it too easy and 1 found it too difficult) and, across all tasks, identified in the learning objectives, students reported being able to increase their skills (e.g. from being unfamiliar with the task, being able to define the task, being able to classify tasks that belong to the component, knowing at least 2 ways to approach the task, and being familiar with some technical insights/nuances of the tasks).
 
 
@@ -36,7 +37,7 @@ Please contact me if you would like to use this activity in your teaching.
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students.    
 🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2023).  
-🌟 Presented a poster at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2023).  
+🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2023).  
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!
