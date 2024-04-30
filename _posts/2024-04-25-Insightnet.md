@@ -35,6 +35,7 @@ Data monitoring (also known as biosurveillance) is the first application that to
 - **Michigan MICON**: When discussing aberration detection, they noted that an 'eye-test can't always find [aberrations], especially among large data.' It was great to get validation for this phenomenon, which we described in our [IJCAI](https://www.ijcai.org/proceedings/2023/0666.pdf) paper as the basis for the human-in-the-loop framework. They also described the importance of identifying the correct aggregation level for analysis.
 
 ![Scale of Monitoring Matters](/assets/scale.png) 
+
 This is why, as we describe in our [AAAI paper](https://ojs.aaai.org/index.php/AAAI/article/view/30222), we consider geospatial hierarchies and evaluate different levels of the data separately. 
 
 - **Clemson DMA Prime**: They discussed how developing a 1) visualization framework for spatiotemporal data analysis that displays outputs from analytical tools and 2) integrating healthcare data into models is worth investigating. We also want to spend more time focusing on this. 

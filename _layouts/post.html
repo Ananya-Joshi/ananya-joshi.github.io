@@ -20,12 +20,16 @@
 </nav> -->
 
  <nav class="navbar navbar-light bg-warning">
-        <a class="navbar-brand" href="https://ananyajoshi.com/">
+        <a class="navbar-brand px-3" href="https://ananyajoshi.com/">
           Ananya Joshi
       </a>
     </nav>
  <br>
+ <div class="row bg-light"> <!-- style="background-color: #ffe866;" -->
+    <div class="col-1"> </div>
+    <div class="col-10 p-3">
   <h2>{{ page.title }}</h2>
+
  
   <div class="entry">
     {{ content }}
@@ -34,6 +38,9 @@
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+
+   <div class="col-1"> </div>
+</div>
 </article>
   </main>
   <script src="/assets/js/main.js"></script>
