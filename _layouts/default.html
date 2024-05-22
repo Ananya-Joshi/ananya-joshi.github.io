@@ -226,7 +226,7 @@ This thesis introduces a human-in-the-loop framework for public health data aggr
   <h4><a href="{{ baseurl }}{{ post.url }}">{{ post.title }}</a></h4><p>{{ post.excerpt }}</p>
   <hr/>
 </div>
-<div class="col-2 d-flex justify-content-center align-self-center"><p>{{ post.content | length }}</p>
+<div class="col-2 d-flex justify-content-center align-self-center"><p>{{ post.content | strip_html | split: ' ' | size }}</p>
 </div>
 </div>
 </div>
