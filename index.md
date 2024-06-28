@@ -30,21 +30,24 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
 
-🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).   
-🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees!(2024+)  
-
-🌟 Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>. She's now at Goldman Sachs!    
-🌟 Congratulations to my incredible masters student, Richa Gadgil for her graduation from the Machine Learning Masters Degree at CMU! Richa was a core contributor for the FlaSH project and we are excited to keep working at Delphi with her this summer! (May 2024)
-
-🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
-🌟 Co-Instructor for 15-996 (Spring 2022/23) [Article](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
 🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)   
+🌟 Will participate in the KDD Doctoral Consortium 2024
+
+🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2024).  
+🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2024).  
+
+🌟 Co-Instructor for 15-996 (Spring 2022/23) [Article](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
 🌟 Completed the Eberly Center's [Future Faculty Program](https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing) 
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students (2024).    
 
-🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2024).  
-🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2024).  
+🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).   
+🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees!(2024+) 
+🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
+
+🌟 Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>. She's now at Goldman Sachs!    
+🌟 Congratulations to my incredible masters student, Richa Gadgil for her graduation from the Machine Learning Masters Degree at CMU! Richa was a core contributor for the FlaSH project and we are excited to keep working at Delphi with her this summer! (May 2024)
+
 
 *Hobbies:* Pittsburgh is a great place to explore new hobbies. I've enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!
