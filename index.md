@@ -23,7 +23,7 @@ This was a 80-minute active-learning lecture for students in Machine Learning in
 
 Please contact me if you would like to use these activities!
 
-📕 **MLCommons MedPerf Group Presentation**: Monitoring for Health Events: Bridging Healthcare and Public Health Approaches.  
+📕 **MLCommons [Medical Working Group](https://mlcommons.org/working-groups/data/medical/) Presentation**: Monitoring for Health Events: Bridging Healthcare and Public Health Approaches.  
 Motivated by the goal of enhancing collaboration between these fields, the lecture proposes a foundational step in scoping opportunities for integrating machine learning orchestration in healthcare and public health. Details available upon request. 
 
 ### Additional Highlights
