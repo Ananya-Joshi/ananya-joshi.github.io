@@ -42,7 +42,7 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students (2024).    
 
 🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).   
-🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees!(2024+) 
+🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees!(2024+)   
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 
 🌟 Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>. She's now at Goldman Sachs!    
