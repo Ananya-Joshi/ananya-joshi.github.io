@@ -45,7 +45,8 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees!(2024+)   
 🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 
-🌟 Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>. She's now at Goldman Sachs!    
+🌟 Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/identifying-changing-variant-behavior-during-a-pandemic-an-exploratory-analysis/
+" class="link-primary">[Blog]</a>. She's now at Goldman Sachs!    
 🌟 Congratulations to my incredible masters student, Richa Gadgil for her graduation from the Machine Learning Masters Degree at CMU! Richa was a core contributor for the FlaSH project and we are excited to keep working at Delphi with her this summer! (May 2024)
 
 
