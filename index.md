@@ -4,7 +4,7 @@ layout: default
 
 #### Engineering, Systems & Data Science Projects: 
 
-📄 **[Cooperate Rule Caching for SDN Switches](https://ieeexplore.ieee.org/abstract/document/9335795/)** Ori Rottenstreich, Ariel Kulik, **Ananya Joshi**, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE 9th International Conference on Cloud Networking (CloudNet).  
+📄 **[Cooperative Rule Caching for SDN Switches](https://ieeexplore.ieee.org/abstract/document/9335795/)** Ori Rottenstreich, Ariel Kulik, **Ananya Joshi**, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE 9th International Conference on Cloud Networking (CloudNet).  
 📄 **[Data Plane Cooperative Caching With Dependencies](https://ieeexplore.ieee.org/abstract/document/9632694)** Ori Rottenstreich, Ariel Kulik, **Ananya Joshi**, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE Transactions on Network and Service Management.  
 📄 **[An open repository of real-time COVID-19 indicators](https://www.pnas.org/doi/abs/10.1073/pnas.2111452118)** Alex Reinhart, Logan Brooks... **Ananya Joshi** ..., Roni Rosenfeld, Ryan J. Tibshirani, Proceedings of the National Academy of Sciences.  
 
@@ -31,7 +31,7 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
 
 🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)   
-🌟 Will participate in the KDD Doctoral Consortium 2024
+🌟 Presenting at KDD Doctoral Consortium 2024
 
 🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2024).  
 🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2024).  
