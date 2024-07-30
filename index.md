@@ -19,7 +19,7 @@ layout: default
 This was a 80-minute active-learning lecture for students in Machine Learning in Practice. In a post-class anonymous survey (85% completion rate), 83% found the material to be at the right level (1 student found it too easy and 1 found it too difficult) and, across all tasks, identified in the learning objectives, students reported being able to increase their skills (e.g. from being unfamiliar with the task, being able to define the task, being able to classify tasks that belong to the component, knowing at least 2 ways to approach the task, and being familiar with some technical insights/nuances of the tasks).
 
 
-📕 [AI for Social Good in Public Health](https://docs.google.com/presentation/d/1eayOHzHUQv2tbIZbTszkDTOqwWQZxbVYpOQ_8SiL2-E/edit#slide=id.g2c74e183de7_0_1) which used a follow-along [Colab notebook](https://github.com/Ananya-Joshi/AISG_Time_Series_Follow_Along) to demonstrate statistical properties of data streams like nonstationarity, nosiness, and weekday effects and walkthrough methods to process data with these properties. 
+📕 [AI for Social Good in Public Health](https://docs.google.com/presentation/d/1eayOHzHUQv2tbIZbTszkDTOqwWQZxbVYpOQ_8SiL2-E/edit#slide=id.g2c74e183de7_0_1) which used a follow-along [Colab notebook](https://github.com/Ananya-Joshi/AISG_Time_Series_Follow_Along) to demonstrate statistical properties of data streams like nonstationarity, noisiness, and weekday effects and walkthrough methods to process data with these properties. 
 
 Please contact me if you would like to use these activities!
 
