@@ -30,14 +30,14 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
 
-🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)   
+🌟 Co-Organizer of the Delta Workshop for drift phenomena at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)   
 🌟 Presenting at KDD Doctoral Consortium 2024
 
 🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2024).  
 🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2024).  
 
 🌟 Co-Instructor for 15-996 (Spring 2022/23) [Article](https://magazine.cs.cmu.edu/creating-a-jedi-mindset) & TA for Machine Learning in Practice (Spring 2023)  
-🌟 Completed the Eberly Center's [Future Faculty Program](https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing) 
+🌟 Completed the Eberly Center's [Future Faculty Program](https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing)  
 🌟 Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 🌟 Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students (2024).    
 
