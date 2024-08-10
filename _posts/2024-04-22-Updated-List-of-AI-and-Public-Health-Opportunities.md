@@ -19,5 +19,8 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 10. [WHO Hub for Pandemic and Epidemic Intelligence Newsletter](https://pandemichub.who.int/)
 11. **Topics:** Resource allocation, forecasting
 12. [MIT Critical Datathon](https://criticaldatathon.github.io/)
+13. [Rising Stars in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/)
+14. [Rising Stars in EECS](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
+15. Association for Health Learning and Inference [mentorship programs](https://ahli.cc/ml4h/mentorship-programs/)
 
 Please email me with any suggestions on how to add to this list! 
