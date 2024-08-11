@@ -9,7 +9,8 @@ layout: default
 📄 **[An open repository of real-time COVID-19 indicators](https://www.pnas.org/doi/abs/10.1073/pnas.2111452118)** Alex Reinhart, Logan Brooks... **Ananya Joshi** ..., Roni Rosenfeld, Ryan J. Tibshirani, Proceedings of the National Academy of Sciences.  
 
 🛠️ [NiChrome](https://github.com/u-root/NiChrome), Google : Intern project with Anthony Rolland, advised by Ron Minnich and Christopher Koch    
-🛠️ [COVIDCast Engineering](https://www.pnas.org/doi/10.1073/pnas.2111452118), Delphi: Contributor    
+🛠️ [COVIDCast Engineering](https://www.pnas.org/doi/10.1073/pnas.2111452118), Delphi: Contributor since 2020.     
+🛠️ [Cases2Beds](https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/) Project lead for a tool to provision hospital beds, developed in collaboration with the Allegheny County Health Department and shared with several other county public health departments during the COVID-19 Pandemic. Presented on 01/08/2020 at the COVID-19 Trends and Impact Surveys Data Users Meeting.  
 🛠️ Research at MIT Lincoln Laboratory on Probabiltiy of Cloud Free Line of Sight    
 📄 Urban Data Mining in Switzerland, ETH Zurich    
 
