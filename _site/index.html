@@ -10,6 +10,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.15.4/css/all.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WLWR2XRK');</script>
 </head>
 <body>
 <div class="row bg-light"> <!-- style="background-color: #ffe866;" -->
@@ -47,19 +52,15 @@
  --><br>
  <div class="row">
     <div class="col-md-1"> </div>
-    <div class="col-md-3"> 
-    	<h4 style="text-align:center"><b>Current Roles</b> </h4>
-    	<div class="d-flex h-100 w-100 align-items-center">
-    	<img src="https://avatars.githubusercontent.com/u/22899971?s=200&v=4" class="img-fluid align-items-center" alt="Delphi Logo">
-    </div>
-
+    <div class="col-md-3 d-flex align-items-center"> 
+    	<h4 style="text-align:center" class=""><b>Current Roles</b> </h4>
     </div>
     
     <div class="col-md-7">
     	</br>
         <h5>Carnegie Mellon University</h5>
         <b>Computer Science Ph.D. Student:</b> <br>
-        Aug 2020-exp. Dec 2024
+        Aug 2020-exp. Feb 2025
         <ul>
             <li>I am grateful to be advised by <a href="http://www.cs.cmu.edu/~roni/" class="link-primary">Roni Rosenfeld</a> and <a href="https://bryanwilder.github.io/" class="link-primary">Bryan Wilder</a></li>
             <li>My work is supported by the NSF GRFP. Previously, we've collaborated with the Allegheny County Health Department and Department of Human Services.</li>
@@ -69,9 +70,8 @@
         Jan 2023-Present
         <ul>
             <li>Manager: Peter Jhon <br></li>
-            <li> I manage a group of engineers and quality assurance experts that use the methods developed for my thesis research <br>
-                to identify data that warrants inspection from the millions of public health data points that are received daily at Delphi. </li>
-            <a href="https://delphi.cmu.edu/blog/2024/01/01/introducing-the-flash-group/" class="link-primary">[Blog]</a>
+            <li> I manage a group of engineers and quality assurance experts that use the methods developed for my thesis research to identify data that warrants inspection from the millions of public health data points that are received daily at Delphi. <a href="https://delphi.cmu.edu/blog/2024/01/01/introducing-the-flash-group/" class="link-primary">[Blog]</a> </li>
+            
         </ul>
     </div>
     <div class="col-md-1"> </div>
@@ -79,12 +79,11 @@
 <div class="border-top my-3"></div>
 <div class="row bg-white">
 	<div class="col-md-1"> </div>
-    <div class="col-md-3"> <h4 style="text-align:center"> <b> Education History</b></h4>
-    	<div style="text-align:center">
-    	<i class="fa fa-graduation-cap fa-7x me-auto"></i></div></div>
+    <div class="col-md-3 d-flex align-items-center"> <h4 style="text-align:center"> <b> Educational History</b></h4>
+    	</div>
     <div class="col-md-7">
         </br>
-        <ul>
+        <ul style="list-style-type:none;">
             <li> <b>Carnegie Mellon University</b>, Doctor of Philosophy in Computer Science (2020- exp. 2025)</li>
             <li> <b>Carnegie Mellon University</b>,Masters in Computer Science Research in Computer Science (2023)</li>
             <li> <b>Princeton University</b>, Bachelors of Science in Engineering in Computer Science<br>
@@ -106,18 +105,39 @@
 	<p><b> 📌 Thesis Proposal </b></p>
 	December 8th 2023 <br>
 	Chairs: Roni Rosenfeld (CMU) and Bryan Wilder (CMU), Rayid Ghani (CMU), Matt Biggerstaff (Centers for Disease Control and Prevention, Flu Division)<br> <br>
-	<p>Public health data aggregators publish millions of data points across many data streams, like the daily number of influenza cases, hospitalizations, and deaths per county and state in the United States. So that their users, including public health experts, do not draw erroneous conclusions, these aggregators must identify noteworthy changes in their data, including those that result from data errors and outbreaks. However, given increasing data volumes and limited numbers of data reviewers, aggregators can only have some of their data inspected manually. <\br><\br>
-
-This thesis introduces a human-in-the-loop framework for public health data aggregators to inspect their data given their reviewer resources. Currently, an automated method ranks each new data point in context, with a correction for high-volume settings, so that reviewer attention is focused on the most noteworthy data. Still, reviewers need to investigate hundreds of data points from the ranked list before being able to understand the scope of the impacted data. Accordingly, we propose including an automated module that jointly identifies multiple data points that are noteworthy in context.</p> [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQG8sKMh4obSfuwHpBN9_GIyV0AMxpEU3_2W7e_MDHUIl_Z0A3TYcCCj7uAYkIvwgqEDapR2h8yp_Fa/embed?start=true&loop=true&delayms=3000">Slides Here</a>][<a href="https://www.youtube.com/watch?v=OQ569J4gNlc&list=PLSevl77QCZMa8T1CnConQHk3Xbc6kbNac">YouTube Playlist Here</a>]
+	<p>Growing volumes of public health-related data render existing techniques for identifying changes in disease dynamics and data quality assurance, designed for smaller data volumes, obsolete. Accordingly, my thesis presents a practical framework for experts to monitor large-scale aggregate public health data. Our novel methods, which are simple, scalable, and shown to be accurate in real-world settings, identify data corresponding to quality issues or changes in disease dynamics. Coupled with our custom user interfaces, these methods have led to a <b>53x</b>  increase in monitoring efficiency for data experts at the Delphi Group at Carnegie Mellon University, who can now detect about 200 noteworthy data issues from 15 million new data points each week. As a final step, we are building communication pipelines to disseminate this expert-analyzed data to public health stakeholders, including state and local health departments, thereby enabling actionable intelligence from Delphi's vast volume of public health data. </p> [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQG8sKMh4obSfuwHpBN9_GIyV0AMxpEU3_2W7e_MDHUIl_Z0A3TYcCCj7uAYkIvwgqEDapR2h8yp_Fa/embed?start=true&loop=true&delayms=3000">Slides Here</a>][<a href="https://www.youtube.com/watch?v=OQ569J4gNlc&list=PLSevl77QCZMa8T1CnConQHk3Xbc6kbNac">YouTube Playlist Here</a>]
 <div class="border-top my-3"></div>
+</div>
+<div class="col-md-1"> </div></div>
+
+<div class="row bg-white"><div class="col-md-1"> </div>
+<div class="col-md-3"> 
+	<div class="container d-flex h-100 w-100 align-items-center">
+	<iframe src="assets/SAE.png" allowfullscreen="true" width="100%" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></div>
+<div class="col-md-7">
+	📌 <b>Enabling Steering Using Sparse Autoencoders</b> </p>
+	Jul 2024-Sep 2024  <br>
+	<i>Ananya Joshi*, Celia Cintas, Skyler Speakman  <br>
+	IBM Nairobi, Ph.D. Research Intern, Human-Centered AI and Trustworthy ML Group</i>  <br>
+	Given how well Sparse Autoencoders (SAEs) can steer text toward particular topics (e.g. <a href="https://www.anthropic.com/news/golden-gate-claude" class="link-primary">[Golden Gate Bridge]</a>) 
+	I developed methods that also enable SAEs to:
+	 <ul>
+            <li> be used with any alignment text (instead of pre-identified concepts), </li>
+		 <li> have greater sensitivity to text input, reducing the need for costly parameter-tuning and regeneration,</li>
+		 <li> provide a quality/uncertainty metric during text generation. </li>
+    	</ul>
+	Our experiments show how this approach has unique advantages over current fine-tuning applications.  <br>
+	📣 <a href="https://github.com/IBM/sae-steering" class="link-primary">[Open-sourced from IBM]</a><br> 
+	➕ Manuscript in submission!
+	<div class="border-top my-3"></div>
 </div>
 <div class="col-md-1"> </div></div>
 
 
 <div class="row bg-white"><div class="col-md-1"> </div>
 <div class="col-md-3"> 
-	<div class="container d-flex h-100 w-100 align-items-center">
-	<iframe src="assets/ranking.png" allowfullscreen="true" width="100%" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></div>
+<div class="container d-flex h-100 w-100 align-items-center">
+<iframe src="assets/ranking.png" allowfullscreen="true" width="100%" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></div>
 <div class="col-md-7">
 	📌 <b>Outlier Ranking for Large Scale Public Health Data</b> </p>
 		<i>Ananya Joshi*, Tina Townes, Nolan Gormley, Luke Neurieter, Roni Rosenfeld, Bryan Wilder   <br>
@@ -129,6 +149,7 @@ This thesis introduces a human-in-the-loop framework for public health data aggr
 		<div class="border-top my-3"></div>
 </div>
 <div class="col-md-1"> </div></div>
+
 
 <div class="row bg-white"><div class="col-md-1"> </div>
 <div class="col-md-3"> 
@@ -204,12 +225,13 @@ This thesis introduces a human-in-the-loop framework for public health data aggr
 
      <h4 id="engineering-systems--data-science-projects">Engineering, Systems &amp; Data Science Projects:</h4>
 
-<p>📄 <strong><a href="https://ieeexplore.ieee.org/abstract/document/9335795/">Cooperate Rule Caching for SDN Switches</a></strong> Ori Rottenstreich, Ariel Kulik, <strong>Ananya Joshi</strong>, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE 9th International Conference on Cloud Networking (CloudNet).<br />
+<p>📄 <strong><a href="https://ieeexplore.ieee.org/abstract/document/9335795/">Cooperative Rule Caching for SDN Switches</a></strong> Ori Rottenstreich, Ariel Kulik, <strong>Ananya Joshi</strong>, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE 9th International Conference on Cloud Networking (CloudNet).<br />
 📄 <strong><a href="https://ieeexplore.ieee.org/abstract/document/9632694">Data Plane Cooperative Caching With Dependencies</a></strong> Ori Rottenstreich, Ariel Kulik, <strong>Ananya Joshi</strong>, Jennifer Rexford, Gábor Rétvári, Daniel Menasché, 2020 IEEE Transactions on Network and Service Management.<br />
 📄 <strong><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2111452118">An open repository of real-time COVID-19 indicators</a></strong> Alex Reinhart, Logan Brooks… <strong>Ananya Joshi</strong> …, Roni Rosenfeld, Ryan J. Tibshirani, Proceedings of the National Academy of Sciences.</p>
 
 <p>🛠️ <a href="https://github.com/u-root/NiChrome">NiChrome</a>, Google : Intern project with Anthony Rolland, advised by Ron Minnich and Christopher Koch  <br />
-🛠️ <a href="https://www.pnas.org/doi/10.1073/pnas.2111452118">COVIDCast Engineering</a>, Delphi: Contributor  <br />
+🛠️ <a href="https://www.pnas.org/doi/10.1073/pnas.2111452118">COVIDCast Engineering</a>, Delphi: Contributor since 2020.   <br />
+🛠️ <a href="https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/">Cases2Beds</a> Project lead for a tool to provision hospital beds, developed in collaboration with the Allegheny County Health Department and shared with several other county public health departments during the COVID-19 Pandemic. Presented on 01/08/2020 at the COVID-19 Trends and Impact Surveys Data Users Meeting.<br />
 🛠️ Research at MIT Lincoln Laboratory on Probabiltiy of Cloud Free Line of Sight  <br />
 📄 Urban Data Mining in Switzerland, ETH Zurich</p>
 
@@ -218,24 +240,35 @@ This thesis introduces a human-in-the-loop framework for public health data aggr
 <p>📕 <a href="https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing">Time Series Data: Clarifying Practical Approaches</a> <br />
 This was a 80-minute active-learning lecture for students in Machine Learning in Practice. In a post-class anonymous survey (85% completion rate), 83% found the material to be at the right level (1 student found it too easy and 1 found it too difficult) and, across all tasks, identified in the learning objectives, students reported being able to increase their skills (e.g. from being unfamiliar with the task, being able to define the task, being able to classify tasks that belong to the component, knowing at least 2 ways to approach the task, and being familiar with some technical insights/nuances of the tasks).</p>
 
-<p>📕 <a href="https://docs.google.com/presentation/d/1eayOHzHUQv2tbIZbTszkDTOqwWQZxbVYpOQ_8SiL2-E/edit#slide=id.g2c74e183de7_0_1">AI for Social Good in Public Health</a> which used a follow-along <a href="https://github.com/Ananya-Joshi/AISG_Time_Series_Follow_Along">Colab notebook</a> to demonstrate statistical properties of data streams like nonstationarity, nosiness, and weekday effects and walkthrough methods to process data with these properties.</p>
+<p>📕 <a href="https://docs.google.com/presentation/d/1eayOHzHUQv2tbIZbTszkDTOqwWQZxbVYpOQ_8SiL2-E/edit#slide=id.g2c74e183de7_0_1">AI for Social Good in Public Health</a> which used a follow-along <a href="https://github.com/Ananya-Joshi/AISG_Time_Series_Follow_Along">Colab notebook</a> to demonstrate statistical properties of data streams like nonstationarity, noisiness, and weekday effects and walkthrough methods to process data with these properties.</p>
 
-<p>Please contact me if you would like to use this activity in your teaching.</p>
+<p>Please contact me if you would like to use these activities!</p>
+
+<p>📕 <strong>MLCommons <a href="https://mlcommons.org/working-groups/data/medical/">Medical Working Group</a> Presentation</strong>: Monitoring for Health Events: Bridging Healthcare and Public Health Approaches.<br />
+Motivated by the goal of enhancing collaboration between these fields, the lecture proposes a foundational step in scoping opportunities for integrating machine learning orchestration in healthcare and public health. Details available upon request.</p>
 
 <h3 id="additional-highlights">Additional Highlights</h3>
 <p>🌟 Best Paper Award (SIGCSE ‘23) [Group Award]<br />
-🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]<br />
-🌟 Mentored undergrad student for changepoint detection (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/exploratory-analysis-identifying-changing-variant-behavior-during-a-pandemic/" class="link-primary">[Blog]</a>.  <br />
-🌟 Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023).  <br />
-🌟 Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)<br />
-🌟 Co-Instructor for 15-996 (Spring 2022/23) <a href="https://magazine.cs.cmu.edu/creating-a-jedi-mindset">Article</a> &amp; TA for Machine Learning in Practice (Spring 2023)<br />
-🌟 Co-Organizer of the Delta Workshop for drift phenomnea at KDD ‘24! <a href="https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html">Link</a> <br />
-🌟 Completed the Eberly Center’s <a href="https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing">Future Faculty Program</a><br />
-🌟 Joined the Council of State and Territorial Epidemiologists’ (CSTE) Peer-to-Peer Technical Assistance network as a mentor<br />
-🌟 Selected Courses: Grad AI (A+), Mobile &amp; Pervasive Computing [IoT] (A+) <br />
-🌟 Joined AI/Healthcare panel from the Coding School as part of a <a href="https://the-cs.org/train-course">free machine learning course</a> for high school students.  <br />
-🌟 Presented a talk at <a href="https://www.cs.cmu.edu/~aiseminar/">CMU Artificial Intelligence Seminar Series</a> (Apr 2023).<br />
-🌟 Presented a <a href="https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0">poster</a> at the first annual <a href="https://insightnet.us/insight-net-annual-meeting-2024/">InsightNet</a> meeting (Apr 2023).</p>
+🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]</p>
+
+<p>🌟 Co-Organizer of the Delta Workshop for drift phenomena at KDD ‘24! <a href="https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html">Link</a> <br />
+🌟 Presenting at KDD Doctoral Consortium 2024</p>
+
+<p>🌟 Presented a talk at <a href="https://www.cs.cmu.edu/~aiseminar/">CMU Artificial Intelligence Seminar Series</a> (Apr 2024).<br />
+🌟 Presented a <a href="https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0">poster</a> at the first annual <a href="https://insightnet.us/insight-net-annual-meeting-2024/">InsightNet</a> meeting (Apr 2024).</p>
+
+<p>● Co-Instructor for 15-996 (Spring 2022/23) <a href="https://magazine.cs.cmu.edu/creating-a-jedi-mindset">Article</a> &amp; TA for Machine Learning in Practice (Spring 2023)<br />
+● Completed the Eberly Center’s <a href="https://drive.google.com/drive/folders/1Gpn3lKipagcTaLgiChta_YRaVf2oW5LF?usp=sharing">Future Faculty Program</a><br />
+● Selected Courses: Grad AI (A+), Mobile &amp; Pervasive Computing [IoT] (A+) <br />
+● Partial travel grant to KDD, fee waiver for NU’s Future Faculty Workshop.</p>
+
+<p>●  Joined the Council of State and Territorial Epidemiologists’ (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees! (2024+) <br />
+● Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)<br />
+● Joined AI/Healthcare panel from the Coding School as part of a <a href="https://the-cs.org/train-course">free machine learning course</a> for high school students (2024).</p>
+
+<p>● Mentored students in Pittsburgh Girls-of-Steel for data science basics weekly (Sep 2022-Jun 2023). <br />
+● Mentored my amazing undergraduate student Tara Lakdawala on a changepoint detection project (Sep 2022-Aug 2023) <a href="https://delphi.cmu.edu/blog/2023/12/20/identifying-changing-variant-behavior-during-a-pandemic-an-exploratory-analysis/ " class="link-primary">[Blog]</a>. She’s now at Goldman Sachs!  <br />
+● Congratulations to my incredible masters student, Richa Gadgil for her graduation from the Machine Learning Masters Degree at CMU! Richa was a core contributor for the FlaSH project and we are excited to keep working at Delphi with her this summer! (May 2024)</p>
 
 <p><em>Hobbies:</em> Pittsburgh is a great place to explore new hobbies. I’ve enjoyed starting rock climbing and martial arts here!
 My views and opinions are my own!</p>
@@ -255,6 +288,32 @@ My views and opinions are my own!</p>
 <h4 class="col-7"> </h4>
 <h4 class="col-2 d-flex justify-content-center align-self-center">   Word Count </h4>
 	<div class="col-4"> </div>
+</div>
+
+<div class="row">
+<div class="col-1"> </div>
+<div class="col-2 d-flex justify-content-center align-self-center"><span class="align-middle"> <p >July  2, 2024</p> </span></div>
+  <div class="col-7">
+  <h4><a href="/ph.d2024/07/02/CSTE.html">Bridging Gaps in Research and Public Health: CSTE Conference Takeaways</a></h4><p><p>A few weeks ago, I had the opportunity to attend the Council of State and Territorial Epidemiologists (CSTE) Annual Conference right here in Pittsburgh! Getting involved with CSTE this past year, especially through the <a href="https://www.cste.org/page/forecasting-workgroup">forecasting and modeling</a> workgroup calls, has been incredibly rewarding, and it was great to see some familiar faces in person.</p>
+</p>
+  <hr/>
+</div>
+<div class="col-2 d-flex justify-content-center align-self-center"><p>911</p>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-1"> </div>
+<div class="col-2 d-flex justify-content-center align-self-center"><span class="align-middle"> <p >July  2, 2024</p> </span></div>
+  <div class="col-7">
+  <h4><a href="/internship/2024/07/02/movingtoNairobi.html">Information on Moving to Nairobi</a></h4><p><p>I arrived in Nairobi last week to start my summer internship with the AI team at IBM Research! I’m enjoying my project, and the team has a welcoming culture.</p>
+</p>
+  <hr/>
+</div>
+<div class="col-2 d-flex justify-content-center align-self-center"><p>396</p>
+</div>
+</div>
 </div>
 
 <div class="row">
@@ -317,7 +376,7 @@ My views and opinions are my own!</p>
 </p>
   <hr/>
 </div>
-<div class="col-2 d-flex justify-content-center align-self-center"><p>110</p>
+<div class="col-2 d-flex justify-content-center align-self-center"><p>127</p>
 </div>
 </div>
 </div>
@@ -391,6 +450,8 @@ Website made with Jekyll and Bootstrap.
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   <script src="/assets/js/main.js"></script>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLWR2XRK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </body>
 </html>
 
