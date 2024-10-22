@@ -25,3 +25,17 @@ Here are some quick notes from my first week here that I wish I had known (for a
 - You will pay non-resident fees.
 - It may be possible to apply for some documents online.
 - In general, if there is some laborious process, ask for the contact (phone number, email) of anyone you interact with if there are delays.
+
+**Post-Return Updates**
+Here are some more notes based on search queries I had before I left: 
+- I cooked a lot less than expected due to easy food access. Frequent power outages in my living locale also compromised food safety. 
+- I would bring antimalarials again. To each their own. 
+- If you’re on Safaricom, sign up for roaming packages before leaving the country 
+- Many people do not carry cash unless they are using a matatu (public transport) — MPESA is awesome but don’t forget how to access it without data just on cellular. 
+- I did not receive any letters sent to me using USPS or UPS. However, I did receive a package from the US that was sent from a group that explicitly mentioned they were familiar with Kenyan delivery.
+- My landlord only allowed us to do laundry a few times a week due to water shortages. 
+- Power is controlled by tokens (which you can pay for). Familiarize yourself with this system! 
+- I used ABSA for banking. I needed to go in person to open an account. 
+- Go to the coast! My friends brought me to Watamu and it was incredible! 
+- Getting involved is easy - there’s lots of groups and activities to join you can find them on Instagram easily (e.g. Let's Drift hikes). 
+- Go to meal: Chapo, Ndengu, Kenyan Tea
