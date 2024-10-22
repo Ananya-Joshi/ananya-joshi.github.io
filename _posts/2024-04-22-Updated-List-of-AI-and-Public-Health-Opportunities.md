@@ -5,7 +5,7 @@ date:   2024-04-20
 categories: Ph.D. 
 ---
 
-If you are a CS/AI/ML student interested in getting exposure either with applying your methods to public health or are interested in developing methods for public health applications these opportunities may be interesting to you: 
+If you are a CS/AI/ML student interested in getting exposure either with applying your methods to public health or are interested in developing methods for public health applications these opportunities/insights may be interesting to you: 
 
 1. [PETs for Public Health Challenge](https://data.org/initiatives/pets-challenge/) 
 2. [MlCommons Medical Working Group](https://mlcommons.org/working-groups/data/medical/)
@@ -22,5 +22,9 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 13. [Rising Stars in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/)
 14. [Rising Stars in EECS](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 15. Association for Health Learning and Inference [mentorship programs](https://ahli.cc/ml4h/mentorship-programs/)
+16. [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/)
+17. Resources @ INFORMS: Student competitions papers etc.
+18. Preparing faculty applications in early September for the market
+19. [Senior public health data strategy fellow](https://www.hsp-inc.com/cste-senior-public-health-data-strategy-fellow-srrh/)
 
 Please email me with any suggestions on how to add to this list! 
