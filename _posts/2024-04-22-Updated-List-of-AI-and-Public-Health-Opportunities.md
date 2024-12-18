@@ -26,5 +26,10 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 17. Resources @ INFORMS: Student competitions papers etc.
 18. Preparing faculty applications in early September for the market
 19. [Senior public health data strategy fellow](https://www.hsp-inc.com/cste-senior-public-health-data-strategy-fellow-srrh/)
-20. Funding opportunities and network: ARHQ, DARPA-H
+20. Funding opportunities and network: ARHQ, DARPA-H.
+21. [NARMS data](https://www.fda.gov/animal-veterinary/national-antimicrobial-resistance-monitoring-system/narms-now-integrated-data) for Antimicrobial Resistance Data (AMR).
+22. Public service partnerships for academics with the government through [IPA](https://ourpublicservice.org/our-solutions/workforce/federal-hiring/intergovernmental-personnel-act-hiring-and-placement/).
+23. Venues: IJCAI, AAAI, ML4H, CHIL, CSTE
+
+
 Please email me with any suggestions on how to add to this list! 
