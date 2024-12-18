@@ -26,5 +26,5 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 17. Resources @ INFORMS: Student competitions papers etc.
 18. Preparing faculty applications in early September for the market
 19. [Senior public health data strategy fellow](https://www.hsp-inc.com/cste-senior-public-health-data-strategy-fellow-srrh/)
-
+20. Funding opportunities and network: ARHQ, DARPA-H
 Please email me with any suggestions on how to add to this list! 
