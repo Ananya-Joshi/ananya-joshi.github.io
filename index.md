@@ -34,7 +34,7 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Co-Organizer of the Delta Workshop for drift phenomena at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)    
 🌟 Co-Organizer of the Data Driven Public Health Workshop at AAAI '25  [Link](https://sites.google.com/view/data-driven-public-health/home)    
 🌟 Presenting at AAAI Doctoral Consortium 2025   
-🌟 Presenting at KDD Doctoral Consortium 2024   
+🌟 Accepted to KDD Doctoral Consortium 2024   
 
 🌟 Gave a talk at CMU's Parallel Data Laboratory, Systems Group (Dec 2024)  
 🌟 Had a great at at UIowa's Rising Stars Event (Dec 2024)  
@@ -49,7 +49,8 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 ● Partial travel grant to KDD, fee waiver for NU's Future Faculty Workshop. 
 
 
-●  Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees! (2024+)   
+●  Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor  for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepare lectures and hand-on Colab notebooks for concepts relevant to mentees! This is the **longest** runnning pod (2024+)!
+● Volunteer on monthly International Society For Disease Surveillance calls. 
 ● Lead of SCS Ph.D. Wellness Group (Sep 2020-May 2022)  
 ● Joined AI/Healthcare panel from the Coding School as part of a [free machine learning course](https://the-cs.org/train-course) for high school students (2024).  
 
