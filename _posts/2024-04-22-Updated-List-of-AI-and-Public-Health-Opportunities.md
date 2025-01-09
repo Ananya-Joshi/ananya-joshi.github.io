@@ -30,6 +30,7 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 21. [NARMS data](https://www.fda.gov/animal-veterinary/national-antimicrobial-resistance-monitoring-system/narms-now-integrated-data) for Antimicrobial Resistance Data (AMR).
 22. Public service partnerships for academics with the government through [IPA](https://ourpublicservice.org/our-solutions/workforce/federal-hiring/intergovernmental-personnel-act-hiring-and-placement/).
 23. Venues: IJCAI, AAAI, ML4H, CHIL, CSTE
+24. CSTE Funding Opportunities: Recent CSTE funding opportunities extend to academic institutions that have a commitment from at least one STLT health department. 
 
 
 Please email me with any suggestions on how to add to this list! 
