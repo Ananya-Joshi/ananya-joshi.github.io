@@ -28,8 +28,9 @@ Please contact me if you would like to use these activities!
 Motivated by the goal of enhancing collaboration between these fields, the lecture proposes a foundational step in scoping opportunities for integrating machine learning orchestration in healthcare and public health. Details available upon request. 
 
 ### Recent Highlights
-🌟 Selected for Rising Stars in ML and Systems from MLCommons 
-🌟 Selected for  Rising Stars in Computational and Data Science at UTAustin
+🌟 Selected for Rising Stars in ML and Systems from MLCommons    
+🌟 Selected for Rising Stars in Computational and Data Science at UTAustin   
+🌟 Finalist for CMU's 3 Minute Thesis Competition
 
 
 🌟 Co-Organizer of the Delta Workshop for drift phenomena at KDD '24! [Link](https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html)    
@@ -47,7 +48,7 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
 
-● Selected Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
+● Selected CMU Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT](A+)   
 
 
 ●  Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepared lectures and hand-on Colab notebooks for concepts relevant to mentees! This was the **longest** runnning pod in the states (2024+)!    
