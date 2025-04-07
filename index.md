@@ -39,8 +39,8 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Accepted to KDD Doctoral Consortium 2024, NU's Future Faculty Workshop 2024   
 
 🌟 Gave a talk at CMU's Parallel Data Laboratory, Systems Group. (Dec 2024)  
-🌟 Had a great at at UIowa's Rising Stars Event. (Dec 2024) 
-🌟 Learned a lot about Utah's Epi and Biostats Department and gave a talk.  (Nov 2024)  
+🌟 Had a great at at UIowa's Rising Stars Event. (Dec 2024)        
+🌟 Learned a lot about Utah's Epi and Biostats Department and gave a talk.  (Nov 2024)     
 🌟 Enjoyed Presenting at the Human-Computing Seminar at Ohio State!  (Nov 2024)  
 🌟 Presented a talk at [CMU Artificial Intelligence Seminar Series](https://www.cs.cmu.edu/~aiseminar/) (Apr 2024).    
 🌟 Presented a [poster](https://docs.google.com/presentation/d/1D3113F9G8YakJzFu-xPZbn6m7aQe4Ym7cmy8Y1D2G8o/edit#slide=id.g25f4eb53bbd_0_0) at the first annual [InsightNet](https://insightnet.us/insight-net-annual-meeting-2024/) meeting (Apr 2024).      
@@ -48,7 +48,7 @@ Motivated by the goal of enhancing collaboration between these fields, the lectu
 🌟 Best Paper Award (SIGCSE '23) [Group Award]  
 🌟 Carnegie Mellon University Graduate Student Service Award 2022 [Group Award]  
 
-● Selected CMU Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT](A+)   
+● Selected CMU Courses: Grad AI (A+), Mobile & Pervasive Computing [IoT] (A+)   
 
 
 ●  Joined the Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance network as a mentor for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence I prepared lectures and hand-on Colab notebooks for concepts relevant to mentees! This was the **longest** runnning pod in the states (2024+)!    
