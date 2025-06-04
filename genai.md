@@ -80,6 +80,9 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 ✍️ Joshi, A; Rudow, M. "Multi-LLM Agent Meta-Benchmarking Method" https://github.com/jAMackathon/Multi-Agent-Meta-Benchmarking-Method/tree/main
 
+
+✍️ Joshi, A. "Enabling New Applications with Today's Mechanistic Interpretability Toolkit" https://www.lesswrong.com/posts/iDyf7aBdvBp9jnfuY/enabling-new-applications-with-today-s-mechanistic
+
 📕 [Time Series Data: Clarifying Practical Approaches](https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing)
 This is an 80-minute active-learning lecture for students in Carnegie Mellon's Machine Learning in Practice course. 
 
