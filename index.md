@@ -10,7 +10,7 @@ layout: default
     <div class="col-md-8">
     <h3>Ananya A. Joshi</h3>
     <p class="bio-text">
-    I'm starting as an Assistant Professor at Johns Hopkins University. My work is about <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in computational and data science systems with clinical applications.  </p>
+    I'm an Assistant Professor in Psychiatry & Behavioral Science with a secondary appointment in Computer Science at Johns Hopkins University. My work is about <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in computational and data science systems with clinical applications.  </p>
     </div>
     </div>
 <h4 class="mt-5">Current Research Themes</h4>
