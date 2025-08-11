@@ -15,9 +15,9 @@ layout: default
     </div>
 <h4 class="mt-5">Current Research Themes</h4>
 <ul class="list-unstyled">
-	<li><b>• GenAI Guardrailing and Monitoring</b>: Methods and systems with probabilistic guarentees for detecting and monitoring mood disorders. <i>How do we prevent errors when different fields are extracted from clinical notes?</i> </li>
-   <li><b>• Drug Matching</b>: Online, high-dimensional statistical matching from noisy and missing data. <i>How do we identify which combinations of drug therapies work across highly variable populations?</i></li>
-  <li><b>• Experimental Design</b>: Large-scale digital clinical interventions and feedback loops for evaluating GenAI tools in clinical psychiatry. <i>How do we develop a robust learning system with clinicians and researchers?</i> </li>
+	<li><b>• GenAI Guardrailing and Monitoring</b>: Methods and systems with probabilistic guarentees for detecting and monitoring mood disorders. <br> <i>How do we prevent errors when different fields are extracted from clinical notes?</i> </li>
+   <li><b>• Drug Matching</b>: Online, high-dimensional statistical matching from noisy and missing data. <br><i>How do we identify which combinations of drug therapies work across highly variable populations?</i></li>
+  <li><b>• Experimental Design</b>: Large-scale digital clinical interventions and feedback loops for evaluating GenAI tools in clinical psychiatry. <br> <i>How do we develop a robust learning system with clinicians and researchers?</i> </li>
   
 </ul>
 
