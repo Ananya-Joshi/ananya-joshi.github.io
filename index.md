@@ -10,20 +10,20 @@ layout: default
     <div class="col-md-8">
     <h3>Ananya A. Joshi</h3>
     <p class="bio-text">
-    I'm an Assistant Professor in Psychiatry & Behavioral Science with a secondary appointment in Computer Science at Johns Hopkins University. My work is about <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in computational and data science systems with clinical applications.  </p>
+    I'm an Assistant Professor in Psychiatry & Behavioral Science with a secondary appointment in Computer Science at Johns Hopkins University. My group's research develops <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in telemedicine systems and patient care.  </p>
     </div>
     </div>
 <h4 class="mt-5">Current Research Themes</h4>
 <ul class="list-unstyled">
-	<li><b>• GenAI Guardrailing and Monitoring</b>: Methods and systems with probabilistic guarentees for detecting and monitoring mood disorders.  </li>
-   <li><b>• Drug Matching</b>: Online, high-dimensional statistical matching from noisy and missing data. </li>
-  <li><b>• Experimental Design</b>: Large-scale digital clinical interventions and feedback loops for evaluating GenAI tools in clinical psychiatry.  </li>
+	<li><b>• GenAI Guardrailing and Monitoring</b>: Methods and systems with probabilistic guarentees for detecting and monitoring mood disorders. <i>How do we prevent errors when different fields are extracted from clinical notes?</i> </li>
+   <li><b>• Drug Matching</b>: Online, high-dimensional statistical matching from noisy and missing data. <i>How do we identify which combinations of drug therapies work across highly variable populations?</i></li>
+  <li><b>• Experimental Design</b>: Large-scale digital clinical interventions and feedback loops for evaluating GenAI tools in clinical psychiatry. <i>How do we develop a robust learning system with clinicians and researchers?</i> </li>
   
 </ul>
 
 <h4 class="mt-4">Opportunities for Students</h4>
 <p>
-I'm excited to advise students on these multidisciplinary topics. If you're a Hopkins student and excited about this research, let's chat!
+I'm recruiting new and senior students at all levels for different projects. If you're currently a Hopkins student [undergrad, masters, Ph.D] or generally interested in this work [Ph.D.-level], let's chat!
 </p>
 
 <h4 class="mt-4">Background</h4>
