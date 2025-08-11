@@ -34,7 +34,7 @@ I received my Ph.D. and M.S. in Computer Science from Carnegie Mellon University
 Like many, I’ve seen how mood disorders impact the lives of people we love. Being in the School of Medicine, I'll be researching the computational questions that can directly help clinicians and patients  improve outcomes. 
 </p>
 
-If you're interested in learning more, please contact me at aa < lastname >  at andrew dot cmu dot edu. 
+If you're interested in learning more, please contact me at aa < lastname >  at jhu dot edu. 
 
 
 
