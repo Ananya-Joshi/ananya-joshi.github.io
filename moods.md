@@ -57,7 +57,7 @@ My computational work is grounded in real-world clinical and public health chall
 
 🤝 Moderator / Roundtable organizer for Surveillance and Informatics II, Strengthening Public Health Surveillance: Adapting to Expanding Responsibilities and Data Volume at the National Conference for the Council of State and Territorial Epidemiologists 
 
-🤝 Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer TTechnical Assistance Pod Mentor for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence, I prepared lectures and hands-on Colab notebooks for concepts relevant to mentees! This was the **longest** running pod!
+🤝 Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance Pod Mentor for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence, I prepared lectures and hands-on Colab notebooks for concepts relevant to mentees! This was the **longest** running pod!
 
 🤝 Co-organizer  of the BISCUIT Workshop at ICCV 2025: The 1st International Workshop on Biomedical Image and Signal Computing for Unbiasedness, Interpretability, and Trustworthiness
 
