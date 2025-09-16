@@ -54,6 +54,10 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 #### Papers and Blogs
 
+🎤 Kicked off the [AIxHealth Research](https://www.aixhealth.info/home) to Impact seminar series by previewing our psychiatry assistant systems and the computational resesarch questions underlying them that need to be addressed. 
+ 
+Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel , Ananya Joshi, Ruiqi Lyu, Jingjing Tang, Alistair Turcan, Khurram Yamin, Steven Wu, Bryan Wilder 
+
 📄 Joshi, A. "Event Monitoring in Modern Public Health Data Streams", Carnegie Mellon University Thesis 
 
 📄 Joshi, A.; Townes, T.; Gormley, N.; Neureiter, L.; Rosenfeld, R.; Wilder, B. "Outlier Ranking for Large-Scale Public Health Data." Proceedings of the AAAI Conference on Artificial Intelligence, 38(20), 22176-22184, 2024.
@@ -89,6 +93,7 @@ This is an 80-minute active-learning lecture for students in Carnegie Mellon's M
 📕 MLCommons [Medical Working Group](https://mlcommons.org/working-groups/data/medical/) Presentation: Monitoring for Health Events: Bridging Healthcare and Public Health Approaches.  
 Tthe lecture proposes opportunities for integrating machine learning orchestration in healthcare and public health. Details available upon request. 
 
+📄 Ren, K.; Cortes-Gomez, S.; Patiño, C.M.; Joshi, A.; Lyu, R.; Tang, J.; Turcan, A.; Yamin, K.; Wu, S.; Wilder, B., "Predicting Language Models’ Success at Zero-Shot Probabilistic Prediction" EMNLP 2025. [Accepted] 
 
 #### Presentations / Collaborators 
 I've presented at or collaborated with MLCommons, MLCommons Rising Stars Program , Computational and Data Science Rising Stars, IJCAI, AAAI, CMU's Parallel Data Laboratory, CMU's AI Seminar, CMU's 3 Minute Thesis competition finalist, AAAI Doctoral Consortium, SIGKDD Doctoral Consortium, University of Ohio, University of Iowa, and the University of Utah. I've reviewed for AAAI, IJCAI, CHI, KDD, and VIS. 
