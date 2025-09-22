@@ -32,6 +32,7 @@ If you are a CS/AI/ML student interested in getting exposure either with applyin
 23. Venues: IJCAI, AAAI, ML4H, CHIL, CSTE, epiDAMIK
 24. CSTE Funding Opportunities: Recent CSTE funding opportunities extend to academic institutions that have a commitment from at least one STLT health department.
 25. PCORI: Patient-Centered Outcomes Research Institute (PCORI)
+26. [Rising Stars in Health](https://www.bme.columbia.edu/rising-stars-engineering-health-workshop)
 
 
 For graduate/PhD students more generally: 
