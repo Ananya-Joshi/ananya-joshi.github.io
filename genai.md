@@ -58,7 +58,7 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 🎤 Sharing some of our work in November at the NxtAI conference on computational monitoring and AI systems for psychiatry. 
  
-Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel , Ananya Joshi, Ruiqi Lyu, Jingjing Tang, Alistair Turcan, Khurram Yamin, Steven Wu, Bryan Wilder 
+📄 Ren, K., Cortes-Gomez, S., Patiño, C. M., Joshi, A., Lyu, R., Tang, J., Turcan, A., Yamin, K., Wu, S., and Wilder, B. “Predicting Language Models’ Success at Zero-Shot Probabilistic Prediction.” Findings of the Association for Computational Linguistics: EMNLP 2025, Association for Computational Linguistics, 2025.
 
 📄 Joshi, A. "Event Monitoring in Modern Public Health Data Streams", Carnegie Mellon University Thesis 
 
