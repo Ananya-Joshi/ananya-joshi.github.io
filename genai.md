@@ -55,6 +55,8 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 #### Papers and Blogs
 
 🎤 Kicked off the [AIxHealth Research](https://www.aixhealth.info/home) to Impact seminar series by previewing our psychiatry assistant systems and the computational resesarch questions underlying them that need to be addressed. 
+
+🎤 Sharing some of our work in November at the NxtAI conference on computational monitoring and AI systems for psychiatry. 
  
 Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel , Ananya Joshi, Ruiqi Lyu, Jingjing Tang, Alistair Turcan, Khurram Yamin, Steven Wu, Bryan Wilder 
 
@@ -75,6 +77,7 @@ Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel , Ananya Joshi, Ruiqi Lyu, Jingj
 📄 Joshi, A., “Data Monitoring for Large-scale Public Health Data.” AAAI Conference on Artificial Intelligence Doctoral Consortium 2025.
 
 📄 Joshi, A. "Creating an Automated Ideological Transformer Using Moral Reframing". Princeton University Thesis, A+
+
 
 📄 Piangerelli, M., Prenkaj, B., Rotalinti, Y., Joshi, A., and Stilo, G. "Workshop on Discovering Drift Phenomena in Evolving Data Landscapes (DELTA)." Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pp. 6731-6732, 2024.
 
