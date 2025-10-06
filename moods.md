@@ -65,6 +65,11 @@ My computational work is grounded in real-world clinical and public health chall
 
 📄 Beyond Cases and Deaths: The Benefits of Auxiliary Data Streams in Tracking the COVID-19 Pandemic. Alex Reinhart, Logan Brooks... *Ananya Joshi* ..., Roni Rosenfeld, Ryan J. Tibshirani, Proceedings of the National Academy of Sciences.  
 
+🎤 📄 Wang K, Rodriguez A, Joshi A, Taneja A. Data-driven decision-making in public health and its real-world applications. AAAI Conf Artif Intell Tutorial. 2025.
+
+🎤 📄 Wang K, Rodriguez A, Joshi A, Taneja A.AAAI Conf Artif Intell Tutorial. 2026 (to appear).
+
+📄 Joshi, A., "Public health monitoring system." American Public Health Association (APHA) 2025 Conference 
 
 🤝 Co-Organizer of the Data Driven Public Health Tutorial at AAAI '25 
 
