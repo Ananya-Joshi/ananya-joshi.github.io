@@ -10,7 +10,7 @@ layout: default
     <div class="col-md-8">
     <h3>Ananya A. Joshi</h3>
     <p class="bio-text">
-    I'm an Assistant Professor in Psychiatry & Behavioral Science with a secondary in Computer Science at Johns Hopkins University. I lead the [pals lab](https://pals-research-lab.github.io/) (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems),  where we develop <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in telemedicine systems and patient care.  </p>
+    I'm an Assistant Professor in Psychiatry & Behavioral Science with a secondary in Computer Science at Johns Hopkins University. I lead the <a href="https://pals-research-lab.github.io/" target="_blank" rel="noopener noreferrer">pals lab]</a> (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems),  where we develop <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in telemedicine systems and patient care.  </p>
     </div>
     </div>
 <h4 class="mt-5">Current Research Themes</h4>
