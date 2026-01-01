@@ -54,15 +54,22 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 #### Papers and Blogs
 
+📄 Joshi, A.; Townes, T.; Gormley, N.; Neureiter, L.; Rosenfeld, R.; Wilder, B. "Outlier Ranking for Large-Scale Public Health Data." Proceedings of the AAAI Conference on Artificial Intelligence, 38(20), 22176-22184, 2024.
+
+📄 Joshi, A.; Rudow, M; “Constrained Process Maps for Multi-Agent Generative AI Workflows” Foundations of Agentic Systems Theory Workshop@AAAI 2026
+
+📄 Joshi, A.; Rudow, M; “Auditing Generative AI Benchmarks with a Multi-Agent Compliance System” Agentic AI Benchmarks and Applications for Enterprise Tasks  Workshop@AAAI 2026
+
+
+📄 Chulo, I.; Joshi, A.; “Decomposing Theory of Mind: How Emotional Processing Mediates ToM Abilities in LLMs” ATheory of Mind Workshop Workshop@AAAI 2026
+
 🎤 Kicked off the [AIxHealth Research](https://www.aixhealth.info/home) to Impact seminar series by previewing our psychiatry assistant systems and the computational resesarch questions underlying them that need to be addressed. 
 
-🎤 Sharing some of our work in November at the NxtAI conference on computational monitoring and AI systems for psychiatry. 
+🎤 Shared some of our work at the NxtAI conference, NSF AI SDM, the Malone Center at Hopkins, and Hopkins Precision Medicine for All on computational monitoring and AI systems for psychiatry. 
  
 📄 Ren, K., Cortes-Gomez, S., Patiño, C. M., Joshi, A., Lyu, R., Tang, J., Turcan, A., Yamin, K., Wu, S., and Wilder, B. “Predicting Language Models’ Success at Zero-Shot Probabilistic Prediction.” Findings of the Association for Computational Linguistics: EMNLP 2025, Association for Computational Linguistics, 2025.
 
 📄 Joshi, A. "Event Monitoring in Modern Public Health Data Streams", Carnegie Mellon University Thesis 
-
-📄 Joshi, A.; Townes, T.; Gormley, N.; Neureiter, L.; Rosenfeld, R.; Wilder, B. "Outlier Ranking for Large-Scale Public Health Data." Proceedings of the AAAI Conference on Artificial Intelligence, 38(20), 22176-22184, 2024.
 
 🛠️ Outshines Package : https://github.com/Ananya-Joshi/Outshines-Documentation
 
@@ -74,7 +81,7 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 📄 Joshi, A., Wilder, B., and Rosenfeld, R. "Actionable Data Monitoring in Modern Data Streams." Knowledge Discovery and Data Mining (SIGKDD) Doctoral Consortium, 2024.
     
-📄 Joshi, A., “Data Monitoring for Large-scale Public Health Data.” AAAI Conference on Artificial Intelligence Doctoral Consortium 2025.
+📄 Joshi, A., “Data Monitoring for Large-scale Public Health Data.” AAAI Doctoral Consortium 2025.
 
 📄 Joshi, A. "Creating an Automated Ideological Transformer Using Moral Reframing". Princeton University Thesis, A+
 
@@ -87,7 +94,6 @@ GenAI applications in healthcare require new approaches for strong alignment, pr
 
 ✍️ Joshi, A; Rudow, M. "Multi-LLM Agent Meta-Benchmarking Method" https://github.com/jAMackathon/Multi-Agent-Meta-Benchmarking-Method/tree/main
 
-
 ✍️ Joshi, A. "Enabling New Applications with Today's Mechanistic Interpretability Toolkit" https://www.lesswrong.com/posts/iDyf7aBdvBp9jnfuY/enabling-new-applications-with-today-s-mechanistic
 
 📕 [Time Series Data: Clarifying Practical Approaches](https://drive.google.com/file/d/1q3MddboM3Ckm0YLZSJEvVksm6AS4go0J/view?usp=sharing)
@@ -95,8 +101,6 @@ This is an 80-minute active-learning lecture for students in Carnegie Mellon's M
 
 📕 MLCommons [Medical Working Group](https://mlcommons.org/working-groups/data/medical/) Presentation: Monitoring for Health Events: Bridging Healthcare and Public Health Approaches.  
 Tthe lecture proposes opportunities for integrating machine learning orchestration in healthcare and public health. Details available upon request. 
-
-📄 Ren, K.; Cortes-Gomez, S.; Patiño, C.M.; Joshi, A.; Lyu, R.; Tang, J.; Turcan, A.; Yamin, K.; Wu, S.; Wilder, B., "Predicting Language Models’ Success at Zero-Shot Probabilistic Prediction" EMNLP 2025. [Accepted] 
 
 #### Presentations / Collaborators 
 I've presented at or collaborated with MLCommons, MLCommons Rising Stars Program , Computational and Data Science Rising Stars, IJCAI, AAAI, CMU's Parallel Data Laboratory, CMU's AI Seminar, CMU's 3 Minute Thesis competition finalist, AAAI Doctoral Consortium, SIGKDD Doctoral Consortium, University of Ohio, University of Iowa, and the University of Utah. I've reviewed for AAAI, IJCAI, CHI, KDD, and VIS. 
