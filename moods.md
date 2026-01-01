@@ -75,7 +75,7 @@ My computational work is grounded in real-world clinical and public health chall
 
 🎤 Presenter for Surveillance and Informatics II: Identifying Outbreaks from Large Volumes of Public Health Data at the National Conference for the Council of State and Territorial Epidemiologists 
 
-✍️ Cases2Beds: Project lead for a tool to provision hospital beds, developed in collaboration with the Allegheny County Health Department and shared with several other county public health departments during the COVID-19 Pandemic. Presented on 01/08/2020 at the COVID-19 Trends and Impact Surveys Data Users Meeting. https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/
+✍️ [Cases2Beds](https://delphi.cmu.edu/blog/2021/03/10/cases2beds-a-case-study-in-actionable-intelligence/): Project lead for a tool to provision hospital beds, developed in collaboration with the Allegheny County Health Department and shared with several other county public health departments during the COVID-19 Pandemic. Presented on 01/08/2020 at the COVID-19 Trends and Impact Surveys Data Users Meeting. 
 
 ✍️ Fulbright Urban Planning & Sustainable Design Award, Singapore, National University of Singapore. IoT and Multimodal data for health. I developed a suite of micro/macro modules (including deep-learning models that use audio, visual, and spatiotemporal input data) designed to work together and assist users in designing urban spaces that are unappealing to mosquitoes.
 
@@ -85,7 +85,7 @@ My computational work is grounded in real-world clinical and public health chall
 
 🤝 Volunteer on monthly International Society For Disease Surveillance calls.  
 
-✍️  Comment to U.S. Centers for Medicare \& Medicaid Services (CMS-2024-0131-1693). (2024, October 19). https://www.regulations.gov/comment/CMS-2024-0131-1693.
+✍️  [Comment](https://www.regulations.gov/comment/CMS-2024-0131-1693) to U.S. Centers for Medicare \& Medicaid Services (CMS-2024-0131-1693). (2024, October 19).
 
 🎤 Presentations to the Influenza Division and Center for Forecasting Analytics at the CDC
 
