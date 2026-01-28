@@ -11,9 +11,8 @@ layout: default
     <h3>Ananya A. Joshi</h3>
     <p class="bio-text">
 I lead the <a href="https://pals-research-lab.github.io/" target="_blank" rel="noopener noreferrer">PALS lab</a> (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems) at Johns Hopkins, bridging the gap between high-stakes Computer Science and clinical Psychiatry. We develop interpretable, deployable AI systems and methods designed to diagnose, treat, and monitor mood disorders at scale. My work focuses on the systems deployment of these tools, ensuring they are robust enough for real-world clinical environments. 
-	
-    </div>
-    </div>
+</div>
+</div>
 <h4 class="mt-5">Current Research Themes</h4>
 <ul class="list-unstyled">
 <ul>
