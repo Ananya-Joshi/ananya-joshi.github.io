@@ -20,15 +20,15 @@ I lead the <a href="https://pals-research-lab.github.io/" target="_blank" rel="n
 <ul class="list-unstyled">
 <ul>
     <li>
-        <b>Continuous Learning & Evaluation</b>:<br>
+        <b>Continuous Learning & Evaluation</b>:
         <i>How do we build evaluation frameworks that remain robust in the high-drift, non-stationary settings of behavioral health?</i>
     </li>
     <li>
-        <b>Operational Monitoring & Anomaly Detection</b>:<br>
+        <b>Operational Monitoring & Anomaly Detection</b>:
         <i>What new methods can reliably detect anomalies in real-time patient data that is inherently noisy and highly variable?</i>
     </li>
     <li>
-        <b>Safety Guardrails & Reliability</b>:<br>
+        <b>Safety Guardrails & Reliability</b>:
         <i>Can we provide probabilistic guarantees to prevent hallucination and error in clinical data extraction and synthesis?</i>
     </li>
 </ul>
