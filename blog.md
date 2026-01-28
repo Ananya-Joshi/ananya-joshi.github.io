@@ -18,7 +18,7 @@ permalink: /blog/
 <div class="col-1"> </div>
 <div class="col-2 d-flex justify-content-center align-self-center"><span class="align-middle"> <p >{{ post.date | date: "%B %e, %Y" }}</p> </span></div>
   <div class="col-7">
-  <h4><a href="{{ baseurl }}{{ post.url }}">{{ post.title }}</a></h4><p>{{ post.excerpt }}</p>
+  <h4><a href="{{ baseurl }}{{ post.url }}">{{ post.title }}</a></h4>{{ post.excerpt }}
   <hr/>
 </div>
 <div class="col-2 d-flex justify-content-center align-self-center"><p>{{ post.content | strip_html | split: ' ' | size }}</p>

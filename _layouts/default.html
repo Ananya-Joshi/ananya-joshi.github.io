@@ -5,12 +5,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title> Ananya A. Joshi | Johns Hopkins | {{ page.title }}</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  {% assign seo_title = page.title | default: "AI for Psychiatry and Public Health" %}
+  {% assign seo_description = page.description | default: site.description %}
+  <title>{{ seo_title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ seo_title | escape }} | {{ site.title | escape }}" />
+  <meta property="og:description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:image" content="{{ '/assets/headshot.jpg' | absolute_url }}" />
+  <meta property="og:image:alt" content="Portrait of Ananya A. Joshi" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ seo_title | escape }} | {{ site.title | escape }}" />
+  <meta name="twitter:description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}" />
+  <meta name="twitter:image" content="{{ '/assets/headshot.jpg' | absolute_url }}" />
+  <meta name="twitter:image:alt" content="Portrait of Ananya A. Joshi" />
+  <link rel="icon" href="{{ '/assets/headshot.jpg' | relative_url }}" type="image/jpeg" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
   <style>
     body {
       font-family: "Helvetica Neue", sans-serif;
       background-color: #f9f9f9;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
     .navbar {
       background-color: #003366;
@@ -21,8 +41,9 @@
     .profile-img {
       width: 150px;
       height: 150px;
-      border-radius: 50%;
+      border-radius: 20%;
       object-fit: cover;
+	  filter: grayscale(100%);
       border: 2px solid #003366;
     }
     .intro {
@@ -38,15 +59,31 @@
       padding: 1rem 0;
       text-align: center;
     }
-	.navbar-light .navbar-toggler-icon {
-	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 30 30'%3e%3cpath stroke='%23000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-	}
+    main {
+      flex: 1 0 auto;
+    }
   </style>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"/>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
-  <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.15.4/css/all.css">
   <link rel="stylesheet" href="/assets/css/styles.css">
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ananya A. Joshi",
+    "url": "{{ site.url }}",
+    "image": "{{ '/assets/headshot.jpg' | absolute_url }}",
+    "jobTitle": "Assistant Professor of Psychiatry and Behavioral Sciences and Computer Science",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Johns Hopkins University"
+    },
+    "sameAs": [
+      "https://pals-lab.org/",
+      "https://github.com/Ananya-Joshi"
+    ]
+  }
+  </script>
+  {% endif %}
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -55,6 +92,8 @@
 </head>
  
 <body>
+
+<a class="visually-hidden-focusable" href="#main-content">Skip to main content</a>
 
 
 
@@ -71,21 +110,12 @@
 	<!-- Collapsible links -->
 	<div class="collapse navbar-collapse" id="navbarNav">
 	<ul class="navbar-nav ms-auto">
-		<li class="nav-item">
-		<li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Home</a></li>
-		</li>
-		<li class="nav-item">
-		<li class="nav-item"><a class="nav-link" href="{{ '/genai/' | relative_url }}">GenAI/Monitoring</a></li>
-		</li>
-		<li class="nav-item">
-		<li class="nav-item"><a class="nav-link" href="{{ '/moods/' | relative_url }}">Psychiatry/Epi</a></li>
-		</li>
-		<li class="nav-item">
-		<li class="nav-item"><a class="nav-link" href="{{ '/os/' | relative_url }}">Operating Systems</a></li>
-		</li>
-		<li class="nav-item">
-		<li class="nav-item"><a class="nav-link" href="{{ '/blog/' | relative_url }}">Blogs</a></li>
-		</li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/genai/' | relative_url }}"{% if page.url == '/genai/' %} aria-current="page"{% endif %}>GenAI/Monitoring</a></li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/moods/' | relative_url }}"{% if page.url == '/moods/' %} aria-current="page"{% endif %}>Psychiatry/Epi</a></li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/os/' | relative_url }}"{% if page.url == '/os/' %} aria-current="page"{% endif %}>Operating Systems</a></li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/blog/' | relative_url }}"{% if page.url == '/blog/' %} aria-current="page"{% endif %}>Blogs</a></li>
+		<li class="nav-item"><a class="nav-link" href="{{ '/Joshi_Academic_CV-10.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a></li>
 	</ul>
 	</div>
 </div>
@@ -93,14 +123,14 @@
 	  
   
 <!-- Page Content -->
-<main class="pt">
+<main id="main-content" class="pt">
 	<section class="container intro">
 {{ content }}
 </section>
 </main>
 
-<!-- Footer --> -->
-<footer class="text-center text-muted py-4 mt-5 border-top">
+<!-- Footer -->
+<footer class="text-center py-4 border-top">
 <div class="container">
 	<small> Johns Hopkins University | School of Medicine | Whiting School of Engineering</small>
 </div>
@@ -118,9 +148,8 @@
 </script>
 
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   <script src="/assets/js/main.js"></script>
 
   </body>
 </html>
-

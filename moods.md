@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: psych
+title: Psychiatry and Public Health
 permalink: /moods/ 
 ---
 
@@ -18,7 +18,7 @@ My computational work is grounded in real-world clinical and public health chall
             <h5 class="card-title">Deployed Public Health Monitoring</h5>
             <h6 class="card-subtitle mb-2 text-muted">Detecting events from millions of data streams in real-time. </h6>
             <p class="card-text">
-              The FlaSH system is deployed at Carnegie Mellon University and has been used for over 2 and a half years to monitor large scale data streams for anomalies. 
+              The FlaSH system has been deployed at Carnegie Mellon University since 2023 to monitor large-scale data streams for anomalies.
             </p>
           </div>
         </div>
@@ -55,6 +55,16 @@ My computational work is grounded in real-world clinical and public health chall
 
 ### Communities, Papers, and Code
 
+📄 **[Precision Medicine for Mood Disorders in the Big Data Era](https://doi.org/10.1080/09540261.2026.2717216).** Joshi, A.; Franklin, C.; Bray, M.; Adams, R.; Li, K.; Taylor, J.; Goes, F.; Zandi, P.; Potash, J. *International Review of Psychiatry*, 2026.
+
+📄 **Optimal Question Selection from a Large Question Bank for Clinical Field Recovery in Conversational Psychiatric Intake.** Gui, G.; Zandi, P.; Taylor, J.; Joshi, A. AI4Mental Workshop at KDD 2026.
+
+📄 **Reliability Auditing for Downstream LLM Tasks in Psychiatry: LLM-Generated Hospitalization Risk Scores.** Panda, S.; Bose, S.; Joshi, A. AI4Mental Workshop at KDD 2026.
+
+📄 **Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems.** Karnam, M.; Joshi, A. AI4Mental Workshop at KDD 2026.
+
+📄 **Context-Aware Hospitalization Forecasting Evaluations for Decision Support Using LLMs.** Makkuni, R.; Joshi, A. epiDAMIK, MILETS, and SciSoc Agents & LLMs workshops at KDD 2026; **Best Presentation Award**, KDD Undergraduate Consortium.
+
 🤝 Moderator / Roundtable organizer for Surveillance and Informatics II, Strengthening Public Health Surveillance: Adapting to Expanding Responsibilities and Data Volume at the National Conference for the Council of State and Territorial Epidemiologists 
 
 🤝 Council of State and Territorial Epidemiologists' (CSTE) Peer-to-Peer Technical Assistance Pod Mentor for the Pennsylvania Dept. of Health and Santa Clara County Public Health Department. On a biweekly cadence, I prepared lectures and hands-on Colab notebooks for concepts relevant to mentees! This was the **longest** running pod!
@@ -67,7 +77,7 @@ My computational work is grounded in real-world clinical and public health chall
 
 🎤 📄 Wang K, Rodriguez A, Joshi A, Taneja A. Data-driven decision-making in public health and its real-world applications. AAAI Conf Artif Intell Tutorial. 2025.
 
-🎤 📄 Wang K, Rodriguez A, Joshi A, Taneja A.AAAI Conf Artif Intell Tutorial. 2026 (to appear).
+🎤 📄 Wang, K.; Rodriguez, A.; Joshi, A.; Taneja, A. **Generative AI in Healthcare: Causality, Decision, and Real-World Case Studies.** Tutorials at AAAI and ACM SIGKDD, 2026.
 
 📄 Joshi, A., "Public health monitoring system." American Public Health Association (APHA) 2025 Conference 
 
@@ -99,12 +109,9 @@ My computational work is grounded in real-world clinical and public health chall
 ### Public Communication 
 
 - [CSTE Workbooks](https://github.com/Ananya-Joshi/CSTE_TA_Workbooks) 
-- [AAAI AIHub interview](https://aihub.org/2025/05/13/interview-with-ananya-joshi-real-time-monitoring-for-healthcare-data/)
 - [3 Minute Thesis Finalist](https://www.youtube.com/watch?v=BaIknj5naSg)
 - [3 Minute Thesis CSD News](https://csd.cmu.edu/news/joshi-among-ten-three-minute-thesis-3mt-finalists)
 - [3 Minute Thesis CMU News](https://www.cmu.edu/mcs/news-events/2025/0303_three-minute-thesis.html  )
 - [CMU Service News](https://magazine.cs.cmu.edu/creating-a-jedi-mindset)
 - [Fulbright US Embassy News](https://x.com/USEmbassySG/status/1230834991140982784)
 - [Fulbright in a Time of COVID: Essays by US Fulbrighters in Asia, 2019-2020](https://www.amazon.com/Fulbright-Time-COVID-Fulbrighters-2019-20-ebook/dp/B093QQSSMH)
-
-
