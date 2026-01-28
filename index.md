@@ -10,16 +10,27 @@ layout: default
     <div class="col-md-8">
     <h3>Ananya A. Joshi</h3>
     <p class="bio-text">
-    I'm a Tenure Track Assistant Professor in Psychiatry & Behavioral Science with a secondary in Computer Science at Johns Hopkins University. I lead the <a href="https://pals-research-lab.github.io/" target="_blank" rel="noopener noreferrer">pals lab</a> (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems),  where we develop <b>computational and Generative AI</b> methods and systems for diagnosing, treating, and monitoring <b>mood disorders</b>. I'm also broadly interested in telemedicine systems and patient care.  </p>
+I lead the <a href="https://pals-research-lab.github.io/" target="_blank" rel="noopener noreferrer">PALS lab</a> (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems) at Johns Hopkins, bridging the gap between high-stakes Computer Science and clinical Psychiatry. We develop interpretable, deployable AI systems and methods designed to diagnose, treat, and monitor mood disorders at scale. My work focuses on the systems deployment of these tools, ensuring they are robust enough for real-world clinical environments. 
+	
     </div>
     </div>
 <h4 class="mt-5">Current Research Themes</h4>
 <ul class="list-unstyled">
-	<li><b>• GenAI Guardrailing and Monitoring</b>: Methods and systems with probabilistic guarentees for detecting and monitoring mood disorders. <br> <i>How do we prevent errors when different fields are extracted from clinical notes?</i> </li>
-   <li><b>• Drug Matching</b>: Online, high-dimensional statistical matching from noisy and missing data. <br><i>How do we identify which combinations of drug therapies work across highly variable populations?</i></li>
-  <li><b>• Experimental Design</b>: Large-scale digital clinical interventions and feedback loops for evaluating GenAI tools in clinical psychiatry. <br> <i>How do we develop a robust learning system with clinicians and researchers?</i> </li>
-  
+<ul>
+    <li>
+        <b>Continuous Learning & Evaluation</b>:<br>
+        <i>How do we build evaluation frameworks that remain robust in the high-drift, non-stationary settings of behavioral health?</i>
+    </li>
+    <li>
+        <b>Operational Monitoring & Anomaly Detection</b>:<br>
+        <i>What new methods can reliably detect anomalies in real-time patient data that is inherently noisy and highly variable?</i>
+    </li>
+    <li>
+        <b>Safety Guardrails & Reliability</b>:<br>
+        <i>Can we provide probabilistic guarantees to prevent hallucination and error in clinical data extraction and synthesis?</i>
+    </li>
 </ul>
+  
 
 <h4 class="mt-4">Opportunities for Students</h4>
 <p>
