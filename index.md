@@ -8,7 +8,7 @@ layout: default
     <img src="/assets/headshot.jpg" alt="Ananya A. Joshi" class="profile-img" width="150" height="150" />
     </div>
     <div class="col-md-8">
-    <h2 class="hero-name">Ananya A. Joshi</h2>
+    <h4 class="hero-name">Ananya A. Joshi</h4>
     <p class="bio-text">
 I lead the <a href="https://pals-lab.org/" target="_blank" rel="noopener noreferrer">PALS lab</a> (<i>p</i>sychiatry-<i>a</i>ssistive <i>l</i>earning <i>s</i>ystems) at Johns Hopkins, bridging the gap between high-stakes Computer Science and clinical Psychiatry. We develop interpretable, deployable AI systems and methods to support psychiatric assessment, care, and monitoring at scale. My work focuses on the systems deployment of these tools, ensuring they are robust enough for real-world clinical environments.
     </p>
@@ -50,4 +50,3 @@ Like many, I’ve seen how mood disorders impact the lives of people we love. In
 </p>
 
 If you're interested in learning more, see my <a href="/Joshi_Academic_CV-10.pdf" target="_blank" rel="noopener noreferrer">full CV</a> or contact me at aa &lt;lastname&gt; at jhu dot edu.
-

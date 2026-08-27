@@ -18,9 +18,7 @@ h1 {
 .hero-name {
   margin-bottom: 0.35rem;
   color: #1f2933;
-  font-size: clamp(2rem, 5vw, 3rem);
   font-weight: 700;
-  line-height: 1.1;
   text-align: left;
 }
 
