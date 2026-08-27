@@ -24,17 +24,8 @@ h1 {
   text-align: left;
 }
 
-.hero-tagline {
-  margin-bottom: 1rem;
-  color: #003366;
-  font-size: 1.2rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
 @media (max-width: 767.98px) {
-  .hero-name,
-  .hero-tagline {
+  .hero-name {
     text-align: center;
   }
 }
